@@ -14,3 +14,5 @@ Danh mục nhúng có thể tìm offline; cập nhật danh mục, tải ảnh/m
 Trang này chỉ phân phối bản biên dịch và hướng dẫn. Source project nằm trong repo private riêng. Các file “Source code” tự sinh của GitHub tại đây chỉ chứa nội dung trang hướng dẫn này. EXE chưa ký mã; phần mềm biên dịch vẫn có thể bị phân tích ngược.
 
 Xem checksum SHA-256 và ghi chú trong [Releases](https://github.com/kiyotec/unlockcore-downloads/releases).
+
+Từ 0.6.1, vào **Cài đặt → Kiểm tra cập nhật → Cập nhật và mở lại** khi có bản mới. App cũng tự kiểm tra khi mở, tối đa một lần/ngày. Người đang dùng 0.6.0 cần tải 0.6.1 thủ công một lần. Hypervisor, Bơm DLL và trình mở Cheat Engine đã được bỏ.
